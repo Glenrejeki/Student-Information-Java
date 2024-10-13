@@ -1,0 +1,17 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "overrides": [
+  {
+  "files": "*.java",
+  "options": {
+  "parser": "java-parser",
+  "java": true,
+  "bracketSpacing": false,
+  "importOrder": ["java", "javax", "org", "com"]
+  }
+  }
+  ]
+}
+  
